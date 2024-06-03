@@ -1,6 +1,7 @@
 # Laboratory work III
 
-## Student: Nazarova Viktoriya
+## Студент
+Назарова Виктория, группа ИУ8-21
 
 ### Homework
 
